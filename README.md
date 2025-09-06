@@ -38,9 +38,17 @@ AI & Automation professional with 8+ years of experience in QA, automation, and 
 
 ## 📂 GitHub Projects
 Here are some highlights of my work:  
-- **AI Agents & Automation:** [Link to repo]  
-- **Playwright Automation Framework:** [Link to repo]  
-- **Selenium + Appium Frameworks:** [Link to repo]  
+
+### AI Projects
+- **Virtual AI Assistant:** [https://github.com/mathumathi0989/VirtualAIAssistant](https://github.com/mathumathi0989/VirtualAIAssistant)  
+- **AI Test Script Generator:** [https://github.com/mathumathi0989/AITestScriptGenerator](https://github.com/mathumathi0989/AITestScriptGenerator)  
+- **Women Empowerment AI Marketing:** [https://github.com/mathumathi0989/WomenEmpowerment_AI_Marketing_n8n](https://github.com/mathumathi0989/WomenEmpowerment_AI_Marketing_n8n)  
+
+### Test Automation Frameworks
+- **BDD Cucumber:** [https://github.com/mathumathi0989/Selenium-Squad-DSALGO-BDD-CUCUMBER](https://github.com/mathumathi0989/Selenium-Squad-DSALGO-BDD-CUCUMBER)  
+- **TestNG Framework:** [https://github.com/mathumathi0989/SeleniumSquad-DSALGO-Testng](https://github.com/mathumathi0989/SeleniumSquad-DSALGO-Testng)  
+- **Playwright Automation:** [https://github.com/pavisen/Team7_PlaywrightWizards_Lms_Bdd_Project](https://github.com/pavisen/Team7_PlaywrightWizards_Lms_Bdd_Project)  
+- **Appium Framework:** [https://github.com/mathumathi0989/Team4_AppiumAvengers](https://github.com/mathumathi0989/Team4_AppiumAvengers)  
 
 ---
 
